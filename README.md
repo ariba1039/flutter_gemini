@@ -1,5 +1,5 @@
 
-![gemini_banner](https://github.com/ahmadexe/Flutter-Gemini/assets/89170825/399af1c6-f1ee-47c9-ad6c-84eb62f77062)
+![gemini_banner](https://github.com/ariba1039/Flutter-Gemini/assets/89170825/399af1c6-f1ee-47c9-ad6c-84eb62f77062)
 
 
 # Flutter x Gemini ✨
@@ -15,7 +15,7 @@ The Gemini API gives you access to the latest generative AI models from Google. 
 
 
 ## How to use? 👨‍💻
-1. Clone the repo by running `git clone git@github.com:ahmadexe/Flutter-Gemini.git`
+1. Clone the repo.
 
 2. Run in root directory of the project `flutter pub get`
 
