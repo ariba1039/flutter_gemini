@@ -1,5 +1,4 @@
 
-![gemini_banner](https://github.com/ariba1039/Flutter-Gemini/assets/89170825/399af1c6-f1ee-47c9-ad6c-84eb62f77062)
 
 
 # Flutter x Gemini ✨
